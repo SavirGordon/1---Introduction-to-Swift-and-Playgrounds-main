@@ -10,14 +10,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Twinkle Twinkle Little Star")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("Twinkle Twinkle Little Star")
+print("How I wonder what you are")
+print("Up above the world so high")
 /*:
 
  _Copyright © 2021 Apple Inc._
